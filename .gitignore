@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.vscode/
+_hw02.txt
+exp01_data/
+student_utils.py
